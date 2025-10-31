@@ -119,7 +119,7 @@
 
         sys {
             bindings = <
-&sys_reset  &bt BT_CLR_ALL  &none           &none  &tog 1    &kp C_VOLUME_UP    &kp C_NEXT        &none  &none   &none
+&sys_reset  &bt BT_CLR_ALL  &none           &none  &tog 1    &kp C_VOLUME_UP    &kp C_NEXT        &none  &none   &kp INSERT
 &none       &bt BT_NXT      &none           &none  &to 5     &kp C_VOLUME_DOWN  &kp C_PREV        &none  &none   &none
 &none       &kp KP_NUMLOCK  &kp SCROLLLOCK  &none  &none     &kp C_MUTE         &kp C_PLAY_PAUSE  &none  &none   &kp PRINTSCREEN
 &none       &trans                                                                                       &trans  &none

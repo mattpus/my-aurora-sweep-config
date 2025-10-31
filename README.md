@@ -80,3 +80,6 @@ When using the mouse for scrolling, navigating, we can still use some typically 
 
 - ctrl+c copy, ctrl+v paste, ctrl+z undo. Hence why ctrl is on the ring finger. We do sacrifice ctrl+x cut which is not used as much.
 - alt+tab for switching windows
+
+## Using
+copy keymap and paste in https://nickcoutsos.github.io/keymap-editor/
